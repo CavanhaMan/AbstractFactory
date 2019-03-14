@@ -1,3 +1,4 @@
+//PRODUTO CONCRETO VILAO IMPLEMENTADO PELA FABRICA CONCRETA VILAOFACTORY
 public class Troll implements Vilao {
     @Override
     public void habilidadeEspecial() {
